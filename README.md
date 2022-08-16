@@ -4,7 +4,7 @@
 
 👨‍💻 My primary skills include project development and optimization, game mechanics and level design, and algorithm implementation. I hope to direct these skills towards innovation in game development and to facilitate excellent storytelling. I am proficient in many programming languages, including Python, C++, C#, and Java, and have developed extensively using both Unreal Engine and Unity. I also pride myself in my communication skills utilizing my minor in English!  
 
-🎲 Outside tech, I still like to keep myself busy! Creativity is where I excel. I enjoy playing as Dungeon Master for several Dungeons and Dragons games, mapmaking, reading, and writing. I also game quite frequently, both single-player and online with friends. I enjoy talking with people and have a pretty extensive Lego collection!
+🎲 Tech aside, I still like to keep myself busy! Creativity is where I excel. I enjoy playing as Dungeon Master for several Dungeons and Dragons games, mapmaking, reading, and writing. I also game quite frequently, both single-player and online with friends. I enjoy talking with people and have a pretty extensive Lego collection!
 
 ## 🎖 Achievements
 - DevOps Research Experience working with GitHub Actions and workflows in an existing project (December 2021)
