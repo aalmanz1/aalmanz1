@@ -7,7 +7,7 @@
 🎲 Tech aside, I still like to keep myself busy! Creativity is where I excel. I enjoy playing as Dungeon Master for several Dungeons and Dragons games, mapmaking, reading, and writing. I also game quite frequently, both single-player and online with friends. I enjoy talking with people and have a pretty extensive Lego collection!
 
 ## 🎖 Achievements
-- DevOps Research Experience working with GitHub Actions and workflows in an existing project (December 2021)
+- Completed DevOps independent study working with GitHub Actions and workflows in an ongoing educational research project (December 2021)
 - BS in Computer Science, minor in English (May 2021)
 - 1st place at UOP's School of Engineering and Computer Science Senior Project Day (May 2021)
 
